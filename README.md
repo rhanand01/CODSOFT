@@ -42,6 +42,8 @@ To build a predictive model, we can follow these steps:
 # Data visualization
 ![image](https://github.com/user-attachments/assets/45e2de05-dde4-431f-923c-a22013a235d4)
 ![image](https://github.com/user-attachments/assets/2f69efac-b909-4576-a9ac-2ae430628c51)
+![Uploading image.png…]()
+
 
 
 # Model Evaluation
